@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mushroom Atlas</string>
+    <string name="poprzedni">Previous</string>
+    <string name="nastepny">Next</string>
+    <string-array name="opisy_grzybow">
+        <item>
+            Boletus edulis (Boletus edulis Bull.) - a species of fungi from the boletus family (Boletaceae) [3],
+             colloquially called a bolete. It is found in North America (mainly west of the Rocky Mountains, less common
+             in the central and eastern parts of the continent) and in Europe [4]. Moreover, it was brought to New Zealand [5] i
+             southern Africa [6].
+        </item>
+        <item>
+            Common mushroom (Agaricus bisporus (J.E. Lange) Imbach) - a species of mushrooms from the mushroom family
+             (Agaricaceae) [1]. It grows wild, but is also widely grown in mushroom farms and sold
+             in shops [2].
+        </item>
+        <item>
+            The red fly agaric (Amanita muscaria (L.) Lam.) - a species of fungi belonging to the toadstool family
+             (Amanitaceae) [1].
+        </item>
+    </string-array>
+</resources>

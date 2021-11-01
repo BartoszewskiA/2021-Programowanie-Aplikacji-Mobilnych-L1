@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atlas Grzybów</string>
+    <string name="poprzedni">Poprzedni</string>
+    <string name="nastepny">Następny</string>
+    <string-array name="opisy_grzybow">
+        <item>
+            Borowik szlachetny (Boletus edulis Bull.) – gatunek grzybów z rodziny borowikowatych (Boletaceae)[3],
+            potocznie nazywany prawdziwkiem. Występuje w Ameryce Północnej (głównie na zachód od Gór Skalistych, rzadziej
+            w części centralnej i wschodniej kontynentu) i w Europie[4]. Ponadto został zawleczony do Nowej Zelandii[5] i
+            południowej Afryki[6].
+        </item>
+        <item>
+            Pieczarka dwuzarodnikowa (Agaricus bisporus (J.E. Lange) Imbach) – gatunek grzybów z rodziny pieczarkowatych
+            (Agaricaceae)[1]. Rośnie dziko, ale jest też powszechnie uprawiana w pieczarkarniach i sprzedawana
+            w sklepach[2].
+        </item>
+        <item>
+            Muchomor czerwony (Amanita muscaria (L.) Lam.) – gatunek grzybów należący do rodziny muchomorowatych
+            (Amanitaceae)[1].
+        </item>
+    </string-array>
+</resources>
