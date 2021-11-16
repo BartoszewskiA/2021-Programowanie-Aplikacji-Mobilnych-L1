@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab06p01-Kasyno</string>
+    <string-array name="rodzajeStawek">
+        <item>Liczby parzyste</item>
+        <item>Liczby nieparzyste</item>
+        <item>Podzielne przez 3</item>
+        <item>Podzielne przez 5</item>
+    </string-array>
+</resources>
